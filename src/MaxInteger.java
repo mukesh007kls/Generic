@@ -10,7 +10,8 @@ public class MaxInteger {
         System.out.println("Max number is:-"+max);
     }
     public static void main(String[] args) {
-        Float x=0.111F,y=0.423F,z= 0.123F;
+        String x="Orange",y="Banana",z="Peach";
+        //Float x=0.111F,y=0.423F,z= 0.123F;
         //Integer x=20,y=10,z=114;
         findMax(x,y,z);
     }

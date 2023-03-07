@@ -10,7 +10,7 @@ public class MaxInteger {
         System.out.println("Max number is:-"+max);
     }
     public static void main(String[] args) {
-        Integer x=20,y=10,z=14;
+        Integer x=20,y=10,z=114;
         findMax(x,y,z);
     }
 }
